@@ -1,12 +1,12 @@
 # Line_Bot_Shalat
-Script Webhook Line Messaging API Use Heroku Or Other
+ Line Messaging API Use Heroku Or Other
 
-Updated V1.2 : Response a Bit Faster
+
 
 # Developer:
-Copyright @ Medantechno.com
+Copyright @2019
 
-Modified @ Farzain - zFz
+Modified @ rdarsulanto
 
 # Deploy to:
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
